@@ -83,3 +83,6 @@ https://youtu.be/V9v02_w5Uew
 
 #### 📬 Let’s Connect
 Have feedback, questions, or want to contribute? Feel free to reach out or fork the project!
+
+<a href="https://www.linkedin.com/in/mansi-more-0943/"> ![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) </a>
+
