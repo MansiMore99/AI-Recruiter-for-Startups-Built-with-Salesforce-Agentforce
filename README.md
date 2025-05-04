@@ -4,7 +4,7 @@
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## 📽️ Project Overview
+#### 📽️ Project Overview
 
 Built with Salesforce’s Agentforce, this AI-powered recruiter helps founders and small startup teams automate their entire hiring pipeline in under 15 minutes.
 Whether you're a solo founder or an early-stage startup without an HR department, this AI agent can:
@@ -28,9 +28,7 @@ Fully customizable. Lightning-fast to deploy.
 ### 2️⃣ **Define the Agent’s Role**
 ```
 You are a recruiter at an AI startup.
-You talk to candidates over email, answer FAQs,
-collect pre-qualification requirements,
-schedule interviews, and recommend job postings.
+You talk to candidates over email, answer FAQs, collect pre-qualification requirements, schedule interviews, and recommend job postings.
 ```
 
 ### 3️⃣ **Set Up Topics**
@@ -60,7 +58,7 @@ Once everything is configured:
 
 - Click **Next** until you reach the final step
 - Hit **Create Agent**
-- Don’t forget to **Save** your configuration
+- Don’t forget to **Activate** your Agent
 
 ---
 
@@ -68,10 +66,12 @@ Once everything is configured:
 Automate interview scheduling with Flow Builder:
 
 1. Go to **Flow Builder**
-2. Search for and add the `Schedule App`
-3. Under **Connections**, create and configure a **Slack connection**
+2. See the flow diagram of each task
+3. You can debug your task.
 
 This allows your agent to seamlessly handle scheduling via Slack.
+
+https://youtu.be/V9v02_w5Uew
 
 ---
 
