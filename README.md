@@ -1,4 +1,4 @@
-### AI Recruiter for Startups: Built with Salesforce Agentforce
+## AI Recruiter for Startups: Built with Salesforce Agentforce
 #### An out-of-the-box AI agent that talks to candidates, writes job posts, and schedules interviews — powered by Salesforce and Google Cloud.
 
 ![Yt_post](https://github.com/user-attachments/assets/3c1e2796-29d7-42ab-898e-29f1999386f3)
